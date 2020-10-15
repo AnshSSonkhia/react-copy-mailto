@@ -19,7 +19,7 @@ The one thing we can all agree on is that we hate it when the default mail app p
 
 ## Installation and Usage
 
-The easiest way to use this library is to install it via yarn or npm
+The easiest way to use this library is to install it via yarn or npm.
 
 ```
 yarn add react-copy-mailto
@@ -104,4 +104,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome !!!
